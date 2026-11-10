@@ -13,7 +13,7 @@
 
 ---
 
-## 🟥 Présentation du projet
+## Présentation du projet
 
 **Carthage Tkawer** est une plateforme web que j'ai réalisée pour l'événement **Carthage Tkawer 7.0** du **Lions Club IHEC Carthage** (4 jours, janvier 2026).
 
@@ -22,7 +22,7 @@ Les participants y accédaient en scannant un QR code : ils consultaient les inf
 La plateforme a été **utilisée pour les inscriptions réelles** de l'événement.
 ---
 
-## 🟥 Objectifs du projet
+## Objectifs du projet
 -  Faciliter l’accès à une plateforme via QR code  
 -  Mettre en relation supports physiques et services numériques  
 -  Digitaliser l’accès à un formulaire  
@@ -31,7 +31,7 @@ La plateforme a été **utilisée pour les inscriptions réelles** de l'événem
 
 ---
 
-## 🟥 Fonctionnalités principales
+## Fonctionnalités principales
 -  Scan d’un QR code pour accéder au site  
 -  Accès direct au formulaire en ligne  
 -  Interface web claire et intuitive  
@@ -40,7 +40,7 @@ La plateforme a été **utilisée pour les inscriptions réelles** de l'événem
 
 ---
 
-## 🟥 Interface du site (aperçu)
+## Interface du site (aperçu)
 
 <p align="center">
   <img src="images/SITE%20SLIDE1.jpg" width="220" alt="Page 1">
@@ -51,7 +51,7 @@ La plateforme a été **utilisée pour les inscriptions réelles** de l'événem
 
 ---
 
-## 🟥 QR Codes du projet
+## QR Codes du projet
 
 <p align="center">
   <img src="qr/code%20qr%20tkawer.png" width="220" alt="QR Tkawer">
@@ -64,7 +64,7 @@ La plateforme a été **utilisée pour les inscriptions réelles** de l'événem
 
 ---
 
-## 🟥 Technologies / Outils
+## Technologies / Outils
 -  HTML  
 -  CSS  
 -  JavaScript  
