@@ -14,12 +14,12 @@
 ---
 
 ## 🟥 Présentation du projet
-Carthage Tkawer est un projet réalisé dans un cadre universitaire.  
-Il consiste à mettre en place une plateforme digitale accessible via des QR codes,
-permettant aux utilisateurs d’accéder rapidement à un site web et à un formulaire en ligne.
 
-Le projet vise à simplifier l’accès aux informations et à digitaliser le parcours utilisateur.
+**Carthage Tkawer** est une plateforme web que j'ai réalisée pour l'événement **Carthage Tkawer 7.0** du **Lions Club IHEC Carthage** (4 jours, janvier 2026).
 
+Les participants y accédaient en scannant un QR code : ils consultaient les informations pratiques de l'événement, puis s'inscrivaient via un formulaire en ligne.
+
+La plateforme a été **utilisée pour les inscriptions réelles** de l'événement.
 ---
 
 ## 🟥 Objectifs du projet
