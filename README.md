@@ -1,7 +1,7 @@
 <h1 align="center">🏛️ Carthage Tkawer – Plateforme Digitale avec QR Code</h1>
 
 <p align="center">
-  <b>Projet universitaire • Web • QR Code • Formulaire</b>
+  <b>Projet associatif – Lions Club IHEC Carthage • Web • QR Code • Formulaire</b>
 </p>
 
 <p align="center">
